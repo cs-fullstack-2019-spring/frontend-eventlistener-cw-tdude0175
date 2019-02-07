@@ -8,3 +8,5 @@ Create a simple grid system as seen in the attached picture. Put a button called
 
 ### Problem 3:
 Create a simple grid system as seen in the attached picture. Next create four h2 tags with four different sentences in them in your main section. Create one font size function that can change the fontsize of anything you click to “1px”. Use classlist to change the fontsize.
+<hr>
+2 points.
